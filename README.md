@@ -1,3 +1,3 @@
-## Learnning about thorw a data between "Component & Propt"
+## Learnning about thorw a data between "Component & Props"
 
 
